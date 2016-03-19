@@ -1,0 +1,28 @@
+name: Yet Another Homebrew Guide
+favicon: null
+layout_spectrum: 0.6750087481923401
+typography_spectrum: 0.49529354739934206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17486637015827
+  lightness: 0.9652417430188507
+  saturation: 0.3339334540069103
+  rhythmicContrast: 0.9033759327139705
+purpose: []
